@@ -1,6 +1,10 @@
-# AAC-Coder
-The assignment is a part of the course "Multimedia Systems" in the Department of Electrical & Computer Engineering of the Aristotle University of Thessaloniki. The goal is to build our own implementation of AAC Coder.  
+# Multimedia Systems Assignment - Advanced Audio Coding (AAC)
+The assignment is a part of the course "Multimedia Systems" in the Department of Electrical & Computer Engineering of the Aristotle University of Thessaloniki. The goal is to build our own implementation of AAC Encoder and Decoder.  
 
+We can see below a simple version of AAC encoder and decoder.
+![imgonline-com-ua-twotoone-AouNVICbxrp](https://user-images.githubusercontent.com/66207231/111909853-99b56a80-8a67-11eb-9383-d6a8ae9b446b.jpg)
+
+In every level of this assignment we add more modules of the AAC En/decoder above, so Level 1 is the most simple implementation and Level 3 the most complex one.
 
 ## First Level
 
